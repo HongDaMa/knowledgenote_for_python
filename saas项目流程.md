@@ -10,18 +10,18 @@
 
 
 
-<img src="C:\Users\Mahongda\AppData\Roaming\Typora\typora-user-images\1587451008715.png" alt="1587451008715" style="zoom:100%;" />
+<img src="E:\python个人知识拓展笔记\image\1587451008715.png" alt="1587451008715" style="zoom:100%;" />
 
 
 
-![1587451916091](C:\Users\Mahongda\AppData\Roaming\Typora\typora-user-images\1587451916091.png)
+![1587451916091](E:\python个人知识拓展笔记\image\1587451916091.png)
 
-![1587451922407](C:\Users\Mahongda\AppData\Roaming\Typora\typora-user-images\1587451922407.png)
+![1587451922407](E:\python个人知识拓展笔记\image\1587451922407.png)
 
 
 
-![1587452441376](C:\Users\Mahongda\AppData\Roaming\Typora\typora-user-images\1587452441376.png)
+![1587452441376](E:\python个人知识拓展笔记\image\1587452441376.png)
 
-![1587453025435](C:\Users\Mahongda\AppData\Roaming\Typora\typora-user-images\1587453025435.png)
+![1587453025435](E:\python个人知识拓展笔记\image\1587453025435.png)
 
-![1587453584542](C:\Users\Mahongda\AppData\Roaming\Typora\typora-user-images\1587453584542.png)
+![1587453584542](E:\python个人知识拓展笔记\image\1587453584542.png)

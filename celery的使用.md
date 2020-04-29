@@ -1,6 +1,6 @@
 ## 1.celery
 
-celery是一个基于Python开发的模块，可以帮助我们对任务进行分发和处理<img src="C:\Users\Mahongda\AppData\Roaming\Typora\typora-user-images\1588079969136.png" alt="1588079969136" style="zoom:100%;" />
+celery是一个基于Python开发的模块，可以帮助我们对任务进行分发和处理<img src="E:\python个人知识拓展笔记\image\1588079969136.png" alt="1588079969136" style="zoom:100%;" />
 
 ### 1.1环境的搭建
 

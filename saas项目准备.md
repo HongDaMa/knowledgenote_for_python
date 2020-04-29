@@ -70,7 +70,7 @@ mac:
 
 # 2.搭建项目环境（django+虚拟环境）
 
-![1587184732076](E:\python个人知识拓展笔记\image\1587184732076.png)
+![1587184732076](https://github.com/HongDaMa/knowledgenote_for_python/blob/master/image/1587184732076.png)
 
 ![1587184782836](E:\python个人知识拓展笔记\image\1587184782836.png)
 

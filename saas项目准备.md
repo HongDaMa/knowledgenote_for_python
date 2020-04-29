@@ -72,9 +72,9 @@ mac:
 
 ![1587184732076](https://github.com/HongDaMa/knowledgenote_for_python/blob/master/image/1587184732076.png)
 
-![1587184782836](E:\python个人知识拓展笔记\image\1587184782836.png)
+![1587184782836](https://github.com/HongDaMa/knowledgenote_for_python/blob/master/image/1587184782836.png)
 
-![1587184810084](E:\python个人知识拓展笔记\image\1587184810084.png)
+![1587184810084](https://github.com/HongDaMa/knowledgenote_for_python/blob/master/image/1587184810084.png)
 
 # 3.本地配置local_setting.py
 
@@ -102,15 +102,15 @@ LANGUAGE_CODE = 'zh-hans'
 
 # 4.给别人代码
 
-![1587186838477](E:\python个人知识拓展笔记\image\1587186838477.png)
+![1587186838477](https://github.com/HongDaMa/knowledgenote_for_python/blob/master/image/1587186838477.png)
 
 ## 4.1创建一个远程仓库（gitee）
 
-![1587187394236](C:\Users\Mahongda\AppData\Roaming\Typora\typora-user-images\1587187394236.png)
+![1587187394236](https://github.com/HongDaMa/knowledgenote_for_python/blob/master/image/1587187394236.png)
 
 
 
-![1587187559514](E:\python个人知识拓展笔记\image\1587187559514.png)
+![1587187559514](https://github.com/HongDaMa/knowledgenote_for_python/blob/master/image/1587187559514.png)
 
 ## 4.2本地代码推送到git
 
